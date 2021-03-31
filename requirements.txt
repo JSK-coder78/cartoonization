@@ -59,7 +59,6 @@ imagesize==1.2.0
 imantics==0.1.12
 imgaug==0.4.0
 importlib-metadata 
-ipython-genutils==0.2.0
 isort 
 itsdangerous==1.1.0
 jdcal==1.4.1
@@ -70,7 +69,6 @@ jsonschema
 jupyter-client 
 jupyter-core==4.6.3 
 Keras==2.1.5
-Keras-Applications 
 Keras-Preprocessing==1.1.2
 keyring 
 kiwisolver==1.2.0
@@ -163,9 +161,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 srsly==1.0.5
-tensorflow
-tensorflow-estimator
-tensorflow-hub
+tensorflow==2.3.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
