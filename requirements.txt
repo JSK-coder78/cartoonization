@@ -192,7 +192,6 @@ spyder
 spyder-kernels 
 srsly==1.0.5
 tensorboard==2.4.1
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.4.1
 tensorflow-estimator==2.4.0
 tensorflow-hub==0.9.0
