@@ -132,7 +132,6 @@ psutil
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pyclipper==1.2.1
-pycodestyle==2.6.0
 pycparser 
 pydocstyle 
 pyflakes==2.2.0
