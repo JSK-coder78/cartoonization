@@ -35,7 +35,6 @@ diff-match-patch
 docutils==0.16
 editdistance==0.5.3
 efficientnet==1.0.0
-en-core-web-sm 
 entrypoints==0.3
 essential-generators==1.0
 et-xmlfile==1.0.1
