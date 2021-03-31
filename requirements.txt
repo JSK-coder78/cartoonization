@@ -203,7 +203,6 @@ text-to-speech==1.5.2
 tf-slim==1.1.0
 thinc==7.4.5
 threadpoolctl==2.1.0
-tifffile==2021.3.5
 tokenizers==0.9.4
 toml 
 torch==1.8.0
