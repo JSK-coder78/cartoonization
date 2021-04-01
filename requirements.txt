@@ -1,4 +1,3 @@
-bsl-py==0.12.0
 asgiref==3.3.1
 astunparse==1.6.3
 cachetools==4.2.1
